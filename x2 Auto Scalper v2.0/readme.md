@@ -1,6 +1,6 @@
-﻿#Auto Scalper
+# Auto Scalper
 
-##Introduction
+## Introduction
 
 This cTrader Bot has been 4 years in the making, iteration after iteration. But I am finally happy with the outcome.
 
