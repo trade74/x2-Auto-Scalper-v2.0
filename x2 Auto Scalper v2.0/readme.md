@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This cTrader Bot has been 4 years in the making, iteration after iteration. But I am finally happy with the outcome.
+Framework and extention library for writing cTrader cBots in c#
 
 Some Rules To Follow
 In the OnTick() method you should only call l_ (Logic) methods, which are build using b_ (Boolean) methods and these boolean methods are built using w_ (Worker) methods, and these worker methods are built using d_ (Data) methods.
